@@ -37,7 +37,7 @@ $(document).ready(function() {
 
         Email.send({
             SecureToken: "c2a99033-badd-42ba-87e7-4130d2e22a7e ",
-            To: "bolarinwa346@gmail.com",
+            To: "abdulazeeztobibolarinwa@gmail.com",
             From: "shrewdmensch@gmail.com",
             Subject: subject,
             Body: getEmailTemplate(name, subject, email, message),

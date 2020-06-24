@@ -3102,7 +3102,7 @@ textarea.form-control:active {
 }
 
 .job-address {
-    color: #9C8A1F;
+    color: #E8D55D;
     font-style: italic;
     text-transform: capitalize;
 }
@@ -7517,7 +7517,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
     content: "";
-    border: 15px solid rgba(55, 140, 63, 0.6);
+    border: 15px solid #3B2F9C;
     border-radius: 50%;
     height: 180px;
     width: 180px;
